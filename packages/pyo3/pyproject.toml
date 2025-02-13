@@ -25,3 +25,6 @@ Graspologic = "https://github.com/microsoft/graspologic"
 [build-system]
 requires = ["maturin>=1.4,<2.0"]
 build-backend = "maturin"
+
+[tool.maturin]
+version = "100.0.0"
